@@ -1,0 +1,16 @@
+# Projeto de Análise com Databricks
+
+Este projeto contém notebooks criados na plataforma Databricks para análise de dados.
+
+## Conteúdo
+- Notebook de exemplo: `meu_notebook.ipynb`
+- - Notebook de exemplo: `meu_notebook.html`
+
+## Como usar
+1. Baixe o notebook
+2. Abra em um ambiente Jupyter Notebook, Google Colab ou no próprio Databricks
+
+## 🛠 Tecnologias usadas
+- Python
+- Databricks
+- PySpark
