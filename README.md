@@ -13,5 +13,5 @@ Este projeto contém notebooks criados na plataforma Databricks para análise de
 
 ## 🛠 Tecnologias usadas
 - Python
-- Databricks
+- SQL
 - PySpark
