@@ -6,6 +6,7 @@ Este projeto contém notebooks criados na plataforma Databricks para análise de
 ## Conteúdo
 - Notebook de exemplo: `meu_notebook.ipynb`
 - Notebook de exemplo: `meu_notebook.html`
+- Arquivo Power BI: Disponível
 
 ## Como usar
 1. Baixe o notebook
